@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boogiee07
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning Java, Phyon, C++ and all other language
+- 🌱 I’m currently learning Java, Python, C++ and all other language
 - 📫 How to reach me Here 12203hanssicat@gmail.com
 
 <!---
